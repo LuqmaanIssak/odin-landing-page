@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.inside-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-1 {
+    max-width: 300px;
+}
